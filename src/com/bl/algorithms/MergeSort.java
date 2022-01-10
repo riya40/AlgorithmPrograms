@@ -1,5 +1,8 @@
 package com.bl.algorithms;
-
+/**
+ Printing the array in sorted way
+ Using the Merge Sort Algorithms
+ */
 
 public class MergeSort {
         void merge(int arr[], int beg, int mid, int end) {
